@@ -1,7 +1,7 @@
 <img src="[https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp](https://tenor.com/bdYUO.gif)" width="500">
-### ✨ Hi ✨
+### Hi 
 
-## Contact Me:
+# Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anadvillalba/)
 <!--
