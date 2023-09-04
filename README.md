@@ -2,7 +2,7 @@
 <h1 align="center">Hi ✨</h1>
 </div>
 
-🌱 I love software development, solving problems and I am currently inquiring into Cybersecurity. <br>
+🌱 I love software development and solving all kinds of solving problems. <br>
 📝 I’m currently a student at University of Buenos Aires, majoring in Information Systems Engineering. <br>
 📫 Contact Me:
 
