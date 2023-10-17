@@ -3,7 +3,7 @@
 </div>
 
 🌱 I love software developmen, solving all kinds of problems and reading for FUN!. <br>
-📝 I’m currently a student at University of Buenos Aires, majoring in Information Systems Engineering. <br>
+📝 I’m currently a student at University of Buenos Aires, majoring in Computer Science Engineering. <br>
 📫 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anadvillalba/)</div>
